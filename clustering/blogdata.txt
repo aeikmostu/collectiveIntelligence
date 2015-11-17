@@ -1,0 +1,67 @@
+Blog	<built-in method lower of unicode object at 0x02C1D548>	<built-in method lower of unicode object at 0x036B6290>	<built-in method lower of unicode object at 0x029B0AE8>	<built-in method lower of unicode object at 0x02BFCE18>	<built-in method lower of unicode object at 0x0327F428>	<built-in method lower of unicode object at 0x02A5FFE0>	<built-in method lower of unicode object at 0x02A02470>
+Schneier on Security	0	0	0	0	0	0	0
+PaulStamatiou.com - Technology, Design and Photography	0	4	12	0	6	18	33
+Search Engine Roundtable	0	0	0	0	0	0	0
+Copyblogger	0	0	0	0	0	1	0
+John Battelle's Search Blog	0	0	1	0	0	0	0
+Engadget RSS Feed	0	0	1	0	1	0	1
+TMZ.com	0	0	0	0	0	0	0
+Signal v. Noise	0	0	14	2	0	9	4
+A Consuming Experience (full feed)	0	0	7	2	3	1	0
+Latest from Crooks and Liars	1	0	0	1	0	3	1
+Publishing 2.0	1	0	1	0	0	5	2
+mezzoblue	0	0	1	0	0	1	0
+Eschaton	1	0	1	0	0	7	1
+PerezHilton	0	0	0	0	1	0	0
+Slashdot	0	0	2	0	3	0	0
+Matt Cutts: Gadgets, Google, and SEO	0	0	1	0	0	0	0
+Gothamist	0	0	0	0	1	1	0
+BuzzMachine	1	0	1	0	0	2	1
+The Huffington Post | The Full Feed	4	0	6	1	1	5	4
+Joi Ito's Web	0	0	0	0	0	2	0
+Gawker	1	0	0	0	0	0	0
+ongoing by Tim Bray	0	0	1	2	0	5	0
+The Viral Garden	0	6	6	0	0	16	0
+SpikedHumor - Today's Videos and Pictures	3	3	0	0	0	1	3
+Neil Gaiman's Journal	0	0	30	1	0	45	2
+456 Berea Street	0	0	4	1	0	0	0
+Joel on Software	0	0	2	0	1	7	0
+Boing Boing	2	0	2	0	0	5	2
+Techdirt.	7	1	2	2	0	7	8
+Search Engine Watch	0	0	0	0	0	0	0
+WIL WHEATON dot NET	0	0	23	2	0	52	0
+Online Marketing Report	0	0	0	0	0	4	0
+Creating Passionate Users	0	0	0	0	0	0	0
+Bloggers Blog	0	0	0	0	0	0	0
+Joho the Blog	0	0	0	0	0	3	0
+Scobleizer	0	0	0	0	4	2	0
+Derek Powazek	0	0	2	0	0	12	0
+@ProBlogger	0	0	0	0	0	1	0
+Captain's Quarters	0	0	0	0	0	0	0
+plasticbag.org	0	0	1	0	0	0	0
+ThinkProgress	0	0	0	0	0	1	0
+Topix Blog	1	0	0	0	1	0	1
+kottke.org	4	0	5	0	0	5	5
+43 Folders	0	0	45	0	2	46	2
+Official Google Blog	17	3	7	8	4	6	14
+Autoblog	0	0	0	4	0	0	4
+Daily Kos	18	28	8	0	2	8	18
+Google Blogoscoped	0	0	1	0	1	2	0
+Deadspin	0	0	1	0	0	0	0
+The Dish	3	1	1	0	0	1	3
+Go Fug Yourself	0	0	0	0	0	2	0
+O'Reilly Radar	0	3	0	0	0	0	0
+MetaFilter	4	1	6	0	0	0	4
+ReadWrite	14	4	12	1	4	8	17
+Lifehacker	0	0	0	0	1	0	0
+Google Operating System	2	0	0	2	0	0	2
+ShoeMoney	0	0	0	1	0	2	0
+Kotaku	0	0	2	0	1	2	0
+Mashable	0	0	0	0	0	3	0
+WIRED	0	0	0	0	0	0	0
+TechCrunch	1	2	0	0	0	0	1
+Gizmodo	0	0	1	3	2	0	0
+Quick Online Tips	0	0	0	0	0	0	0
+Oilman	0	0	0	0	2	1	0
+Guy Kawasaki	0	0	1	0	0	4	0
+Seth Godin's Blog on marketing, tribes and respect	0	0	0	0	0	2	0
