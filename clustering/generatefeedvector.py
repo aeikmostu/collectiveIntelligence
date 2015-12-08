@@ -5,7 +5,6 @@ import re
 
 # Returns title and dictionary of word counts for an RSS feed
 def getwordcounts(url):
-    print(url)
     # Parse the feed
     d = feedparser.parse(url)
     wc = {}
@@ -17,6 +16,7 @@ def getwordcounts(url):
             summary = e.description
         # Extract a list of words
         words = getwords(e.title + ' ' + summary)
+        print words
         for word in words:
             wc.setdefault(word, 0)
             wc[word] += 1
@@ -30,7 +30,10 @@ def getwords(html):
     # Split words by all non-alpha characters
     words = re.compile(r'[^A-Z^a-z]+').split(txt)
     # Convert to lowercase
-    return [word.lower for word in words if word != '']
+    # for word in words:
+    #     print "w:" + word + ", wl:"+word.lower()
+
+    return [word.strip().lower() for word in words if word.strip() != '']
 
 # Get words from blogs
 apcount = {}
@@ -51,7 +54,6 @@ for feedurl in feedlist:
 
 # Ignore rare and very common words
 wordlist = []
-print(apcount)
 for w, bc in apcount.items():
     frac = float(bc)/feedlistNumber
     if 0.1 < frac < 0.5:
